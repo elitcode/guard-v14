@@ -1,0 +1,3 @@
+@echo 
+
+start kaanjs.js

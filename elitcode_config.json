@@ -1,0 +1,10 @@
+{
+  "token": "Bot Token",
+  "prefix": ".",
+  "clientID":"Bot ID",
+  "guildID":"Sunucu ID",
+  "ownerID":"Owner Kullanıcı ID",
+  "logChannelID":"Log Kanal ID",
+  "lang":"tr",
+  "whiteRole":"Güvenli Rol İD"
+}
