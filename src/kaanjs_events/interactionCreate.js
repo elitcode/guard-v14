@@ -5,22 +5,6 @@ module.exports = async button => {
  let value = button.customId;
  if(button.isButton()){
 
-if(value == "ticket"){
-   const itiraf = new TextInputBuilder()
-  .setCustomId("sebeb")
-  .setLabel(`Destek açma sebibiniz.`)
-  .setStyle(TextInputStyle.Paragraph)
-  .setMaxLength(300)
-  .setPlaceholder("Buraya yazınız.")
-  .setRequired(true)
-  const textrow = new ActionRowBuilder()
-  .addComponents(itiraf)
-  const modal = new ModalBuilder()
-  .setCustomId("ticketon")
-  .setTitle("Ticket")
-  modal.addComponents(textrow)
-  await interaction.showModal(modal)
-}
 }
 }
 
