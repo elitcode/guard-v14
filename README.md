@@ -23,8 +23,8 @@ node .
 
  # Altyapıdan bazı görseller
 
-<img  src="https://media.discordapp.net/attachments/1241435736033722378/1241435751657242654/image.png?ex=664a30a3&is=6648df23&hm=57a5eedf74eeeb91dadae6a9326e538e7d621b87f857b2e6e952d953312e819a&=&format=webp&quality=lossless&width=477&height=195">
-<img  src="https://media.discordapp.net/attachments/1241435736033722378/1241435811833053285/image.png?ex=664a30b2&is=6648df32&hm=c5252d5f1bbdd853747a7f87f14b3b398fa528660987437542e9211c192e3f07&=&format=webp&quality=lossless&width=561&height=192">
+<img  src="https://media.discordapp.net/attachments/1241435736033722378/1241435751657242654/image.png?ex=667114e3&is=666fc363&hm=9a43f60626fb906a4d905273f1dd52a568be39c14b08bb211c0cc922c12cb762&=&format=webp&quality=lossless&width=397&height=163">
+<img  src="https://media.discordapp.net/attachments/1241435736033722378/1241435811833053285/image.png?ex=667114f2&is=666fc372&hm=c614b7c98370e148e5cc8b3f8431b3e227fcf8ca417c518a6082676e1ec89025&=&format=webp&quality=lossless&width=467&height=160">
 
  # iletişim 
 
