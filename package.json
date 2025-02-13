@@ -9,7 +9,7 @@
   "engines": {
     "node": "16.x"
   },
-  "author": "Beş",
+  "author": "kaanjs",
   "license": "MIT",
   "dependencies": {
     "@discordjs/builders": "^1.2.0",
